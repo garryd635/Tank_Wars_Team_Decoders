@@ -6,4 +6,5 @@ Team Members:
 =======================
 Ahmet Shen,
 Garry Dominique,
-Evan LeClair
+Evan LeClair,
+Kirst Alexander
